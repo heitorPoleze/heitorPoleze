@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently focused on backend learning.<br><br>Developing Digital Solution for Rural Property Management: managing rural property  financially and administratively</p>
+<p align="left">Currently focused on backend developing. Software architecture enthusiast. <br><br>Developing Digital Solution for Rural Property Management: managing rural property  financially and administratively</p>
 
 ###
 
