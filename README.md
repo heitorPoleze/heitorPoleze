@@ -40,9 +40,3 @@
 <div align="center">
 <img src="https://github-readme-stats-gamma-seven-33.vercel.app/api/top-langs?username=heitorPoleze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph">
 </div>
-
-###
-
-<div align="center">
-  <img src="github-readme-activity-graph-807htbinp-heitorpoleze-projects.vercel.app/graph?username=heitorPoleze&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
